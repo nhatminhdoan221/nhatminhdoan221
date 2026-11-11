@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2A44&height=150&section=header&text=Doan%20Nhat%20Minh&fontColor=F3EBDD&fontSize=46&fontAlignY=45&desc=Computer%20Engineering%20%40%20NTU%20Singapore&descAlignY=72&descSize=17" width="100%" alt="Doan Nhat Minh"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=20&duration=3500&pause=900&color=7A5C3E&center=true&vCenter=true&width=620&lines=Computer+Engineering+%2B+second+major+in+Business+(International+Trading);Algorithms+%E2%80%A2+Data+%E2%80%A2+Clean+code;420%2B+problems+solved+on+LeetCode" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=900&color=7A5C3E&center=true&vCenter=true&width=620&lines=Computer+Engineering+%2B+Business+(International+Trading);Algorithms+%E2%80%A2+Data+%E2%80%A2+Clean+code;420%2B+problems+solved+on+LeetCode" alt="Typing intro"/>
 
 <p>
   <a href="https://nhatminhdoan221.github.io"><img src="https://img.shields.io/badge/Website-nhatminhdoan221.github.io-4A5D3A?style=flat-square&logo=googlechrome&logoColor=F3EBDD" alt="Website"/></a>
@@ -27,7 +27,7 @@
 - 🏛️ **B.Eng. Computer Engineering**, Second Major in **Business (International Trading)**, Nanyang Technological University, Singapore (2025 – 2029)
 - 📜 **ASEAN Undergraduate Scholarship**
 - 🇻🇳 Previously B.Sc. Information Technology at **UET – VNU Hanoi** · Top 9% of cohort (32/355)
-- 🤖 **Quality Assurance Student Assistant @ AI Singapore**: curating and reviewing Vietnamese data for LLM alignment
+- 🤖 Part-time student assistant at **AI Singapore**, supporting quality checks on Vietnamese data for LLM alignment
 - 🧲 Physics Olympiad background: **Honourable Mention, Vietnam National Physics Olympiad 2024**
 - 🌱 Currently learning: Data Structures & Algorithms, Probability & Statistics, Computer Architecture
 
@@ -56,12 +56,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nhatminhdoan221&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&bg_color=F3EBDD&title_color=1F2A44&text_color=3B3A36&icon_color=4A5D3A&border_color=C8B79A&border_radius=6" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhatminhdoan221&layout=compact&bg_color=F3EBDD&title_color=1F2A44&text_color=3B3A36&border_color=C8B79A&border_radius=6" alt="Top languages"/>
-
 <img src="https://streak-stats.demolab.com?user=nhatminhdoan221&background=F3EBDD&border=C8B79A&ring=4A5D3A&fire=7A5C3E&currStreakNum=1F2A44&sideNums=1F2A44&currStreakLabel=4A5D3A&sideLabels=7A5C3E&dates=7A5C3E&stroke=C8B79A" alt="Commit streak"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nhatminhdoan221&bg_color=F3EBDD&color=1F2A44&line=4A5D3A&point=7A5C3E&area=true&area_color=4A5D3A&title_color=1F2A44&hide_border=false&custom_title=Contribution%20activity" alt="Contribution graph"/>
+<img width="49%" src="./profile-summary-card-output/solarized/3-stats.svg" alt="GitHub stats"/>
+<img width="49%" src="./profile-summary-card-output/solarized/2-most-commit-language.svg" alt="Most commit language"/>
+
+<img width="100%" src="https://ghchart.rshah.org/4A5D3A/nhatminhdoan221" alt="Contribution chart"/>
 
 </div>
 
