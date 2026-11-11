@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2A44&height=150&section=header&text=Doan%20Nhat%20Minh&fontColor=F3EBDD&fontSize=46&fontAlignY=45&desc=Computer%20Engineering%20%40%20NTU%20Singapore&descAlignY=72&descSize=17" width="100%" alt="Doan Nhat Minh"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=900&color=7A5C3E&center=true&vCenter=true&width=620&lines=Computer+Engineering+%2B+Business+(International+Trading);Algorithms+%E2%80%A2+Data+%E2%80%A2+Clean+code;420%2B+problems+solved+on+LeetCode" alt="Typing intro"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=22&duration=3500&pause=900&color=7A5C3E&center=true&vCenter=true&width=620&lines=Computer+Engineering+%2B+second major in Business+(International+Trading);Algorithms+%E2%80%A2+Data+%E2%80%A2+Clean+code;420%2B+problems+solved+on+LeetCode" alt="Typing intro"/>
 
 <p>
   <a href="https://nhatminhdoan221.github.io"><img src="https://img.shields.io/badge/Website-nhatminhdoan221.github.io-4A5D3A?style=flat-square&logo=googlechrome&logoColor=F3EBDD" alt="Website"/></a>
